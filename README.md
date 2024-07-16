@@ -1,31 +1,31 @@
 ---
-description: >-
-  Welcome to Otter Rescue, where you will find everything you need to rescue an
-  otter.
+description: Set up your company
 ---
 
-# Welcome to Otter Rescue
+# Company settings
 
+*   ✅ **Step 1 –** From the left menu, click on the gear icon and select “Company settings” here you can save your company details which Fiskl will use throughout the app.
 
+    ✅ **Step 2 –** Enter your general company details.
 
-### Sign up for Fiskl: Easy Account Setup Guide <a href="#kbsection0" id="kbsection0"></a>
+    * Company industry was entered as part of registration but can be changed.
+    * Once your base currency is set during registration, it cannot be changed directly as it is connected to your company’s transactions and exchange rates. Click [here](https://fiskl.com/help/changing-base-currency/) to find out how to change it.
+    * Your email address is the one which will be used for all transactions in Fiskl.
+    * Add your company ID or registration number, if you would like it to be displayed on your invoices and quotes go to [Templates and Brands](https://fiskl.com/help/templates-brands/).
+    * By adding the timezone for your company, Fiskl will automatically use the selected timezone for company documents such as recurring invoices, Fiskl uses your company time zone to determine what part of the day your company is in (so that your client receives their invoices correctly at say 8am in your company’s selected time zone).
 
-Signing up to Fiskl couldn’t be easier, either go to the app on your IOS or Android device or visit [https://my.fiskl.com](https://my.fiskl.com)
+    ![](https://fiskl.com/wp-content/uploads/2023/06/Company-details-3.png)
 
-Signing up to Fiskl is simple. \
-You can sign up on our web dashboard, Android or iOS. \
-iOS apps only have access to Apple subscriptions but you can sign up in Fiskl dashboard and use any of the apps with the same subscription.&#x20;
+    <figure><img src="https://fiskl.com/wp-content/uploads/2023/06/menu-2.png" alt=""><figcaption></figcaption></figure>
+*   ### Add your company logo <a href="#kbsection1" id="kbsection1"></a>
 
-**Steps**
+    If you didn’t add your logo on registration you can add it here.
 
-*   **Step 1 –** Go to [https://my.fiskl.com](https://my.fiskl.com) and click on “Get started”. &#x20;
+    ![](https://fiskl.com/wp-content/uploads/2023/06/logo-4.png)
 
-    <figure><img src="https://fiskl.com/wp-content/uploads/2023/10/Login-screen-1536x776.png" alt=""><figcaption></figcaption></figure>
-*   **Step 2 –** Select your preferred plan.\
+    > You can also change the size of your logo in [Templates and Brands](https://fiskl.com/help/templates-brands/) from Settings in the left menu.
+*   ### Default time name template <a href="#kbsection2" id="kbsection2"></a>
 
+    To set up a default time name which will be used whenever you log your time, go to the Time name template section, choose from any of the automated fields and add your own text, for example, 20/04/2023 Event planning.
 
-    <figure><img src="https://fiskl.com/wp-content/uploads/2023/10/Select-plan-2-1536x776.png" alt=""><figcaption></figcaption></figure>
-*   **Step 3 –** Enter your details.\
-
-
-    <figure><img src="https://fiskl.com/wp-content/uploads/2023/10/Company-details-1536x776.png" alt=""><figcaption></figcaption></figure>
+    ![](https://fiskl.com/wp-content/uploads/2023/06/Time-name-template-1.png)
