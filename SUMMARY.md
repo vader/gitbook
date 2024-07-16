@@ -5,8 +5,8 @@
 * [Company settings](company-settings.md)
 * [Why is it going missing?](why-is-it-going-missing.md)
 
-## Group 1
+## Setting up your bank accounts
 
-* [Group a](group-1/group-a.md)
-* [Group 1](group-1/group-1.md)
-* [Page 1](group-1/page-1.md)
+* [Setting up WIO](setting-up-your-bank-accounts/setting-up-wio.md)
+* [Using SaltEdge](setting-up-your-bank-accounts/using-saltedge.md)
+* [Using Stripe](setting-up-your-bank-accounts/using-stripe.md)
