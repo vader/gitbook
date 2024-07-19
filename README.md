@@ -25,14 +25,4 @@ Dive in and explore all that Fiskl has to offer!
 Jump in using the cards below, the left navigation or just search for what you need!
 {% endhint %}
 
-> I am not sure if this is for me
-
-{% tabs %}
-{% tab title="First Tab" %}
-This is the first tab&#x20;
-{% endtab %}
-
-{% tab title="Second Tab" %}
-<mark style="color:purple;">**This is the bold**</mark>
-{% endtab %}
-{% endtabs %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Getting Started</td><td></td><td><a href=".gitbook/assets/bike.png">bike.png</a></td><td><a href="getting-started.md">getting-started.md</a></td></tr><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/bike.png">bike.png</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/bike.png">bike.png</a></td><td></td></tr></tbody></table>
