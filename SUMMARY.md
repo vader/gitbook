@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Help](README.md)
-  * [Accounting & Reports](help/accounting-and-reports/README.md)
+  * [Accounting & Reports](help/accounting-and-reports.md)
     * [Chart of Accounts](help/accounting-and-reports/chart-of-accounts.md)
 * [Getting started](getting-started.md)
 * [Company settings](company-settings.md)
