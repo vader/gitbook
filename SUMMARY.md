@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Help](README.md)
-* [Sign up for Fiskl](sign-up-for-fiskl.md)
+* [Getting started](getting-started.md)
 * [Company settings](company-settings.md)
 * [Why is it going missing?](why-is-it-going-missing.md)
 
