@@ -10,6 +10,15 @@ A Chart of Accounts is key to your bookkeeping, accounting, and reporting. It’
 
 The Chart of Accounts (CoA) in Fiskl can be filtered by account type as well as displaying the list of all accounts.
 
+You can access your chart of accounts using the left menu [https://my.fiskl.com/accounting/chart](https://my.fiskl.com/accounting/chart)\
+
+
+{% hint style="info" %}
+```
+Left menu > Accounting > Chart of Accounts
+```
+{% endhint %}
+
 The CoA is split across the following five main account types:
 
 **Assets**
