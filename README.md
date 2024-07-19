@@ -1,5 +1,21 @@
 ---
 description: Help space
+cover: .gitbook/assets/fiskl_wave-with-gradient-1.svg
+coverY: -128
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Help
