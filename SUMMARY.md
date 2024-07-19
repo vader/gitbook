@@ -3,6 +3,7 @@
 * [Help](README.md)
   * [Accounting & Reports](help/accounting-and-reports.md)
     * [Chart of Accounts](help/accounting-and-reports/chart-of-accounts.md)
+    * [Journal Entries](help/accounting-and-reports/journal-entries.md)
 * [Getting started](getting-started.md)
 * [Company settings](company-settings.md)
 * [Why is it going missing?](why-is-it-going-missing.md)
