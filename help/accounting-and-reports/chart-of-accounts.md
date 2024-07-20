@@ -1,10 +1,6 @@
----
-description: Chart of Accounts
----
-
 # Chart of Accounts
 
-### Chart of Accounts guide <a href="#kbsection0" id="kbsection0"></a>
+### Overview <a href="#kbsection0" id="kbsection0"></a>
 
 A Chart of Accounts is key to your bookkeeping, accounting, and reporting. It’s like a map that helps you categorise your transactions correctly and group similar accounts together for reporting and analysis.
 
