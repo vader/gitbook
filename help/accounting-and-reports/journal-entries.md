@@ -17,15 +17,19 @@ For example if $100 left your Bank Account for travel expenses and you categoriz
 {% hint style="info" %}
 Business owners:
 
-Most of your accounting transactions are done from two places:\
+Most of your accounting transactions will be performed in two places:
+
+\
 <mark style="color:green;">Chart of Accounts > Assets > Cash & Cash Equivalents</mark> \ <mark style="color:green;">Chart of Accounts > Liabilities > Credit cards</mark>\
 \
-Think of money flowing into and out of your account account. If you are going to reconcile a a transaction with an expense you start at the Bank ledger account and match the Expense.&#x20;
-
-Fiskl does not allow you do do it the other way.&#x20;
+In Fiskl you must start your transaction from within these accounts.&#x20;
 {% endhint %}
 
-### Types of Journal Entries
+{% hint style="success" %}
+Accountants:
+
+Adding journal entries can also be done using the Multi Journal screen.&#x20;
+{% endhint %}
 
 #### Simple Journal Entries
 
@@ -36,6 +40,8 @@ A simple journal entry involves two accounts: one debit and one credit. It's the
 * **Transaction:** Purchase of office supplies for cash.
   * **Debit:** Office Supplies
   * **Credit:** Cash
+
+#### Multi Currency Journal Entries
 
 In Fiskl, you can easily create simple journal entries by selecting the relevant accounts and entering the transaction details. The system automatically handles the currency conversion if the transaction involves different currencies, ensuring accurate financial reporting.
 
