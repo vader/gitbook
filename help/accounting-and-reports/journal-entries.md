@@ -43,6 +43,14 @@ A simple journal entry involves two accounts: one debit and one credit. It's the
 
 #### Multi Currency Journal Entries
 
+You can also create journal entires between different currencies, account peremitting.&#x20;
+
+For example:&#x20;
+
+In your EUR bank account you purchased a product in USD. The expense is in USD and the transaction in you bank is in EUR. In this case in your EUR ledger account journal entry you choose to record it in a different currency.
+
+Watch example: TODO&#x20;
+
 In Fiskl, you can easily create simple journal entries by selecting the relevant accounts and entering the transaction details. The system automatically handles the currency conversion if the transaction involves different currencies, ensuring accurate financial reporting.
 
 {% hint style="info" %}
