@@ -6,7 +6,7 @@
     * [Journal Entries](help/accounting-and-reports/journal-entries.md)
 * [Getting started](getting-started/README.md)
   * [Page 1](getting-started/page-1.md)
-* [Company settings](company-settings.md)
+* [Company settings new title](company-settings-new-title.md)
 * [Why is it going missing?](why-is-it-going-missing.md)
 
 ## Setting up your bank accounts
