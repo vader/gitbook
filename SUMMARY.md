@@ -8,6 +8,7 @@
   * [Page 1](getting-started/page-1.md)
   * [Fiskl Help Center](getting-started/fiskl-help-center.md)
   * [Fiskl Help Center](getting-started/fiskl-help-center-1.md)
+  * [Fiskl Help Center](getting-started/fiskl-help-center-2.md)
 * [Company settings new title](company-settings-new-title.md)
 * [Why is it going missing?](why-is-it-going-missing.md)
 
